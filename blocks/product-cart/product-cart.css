@@ -1,0 +1,11 @@
+.block.product-cart {
+  background-color: red;
+}
+
+.block.product-cart.background-green {
+  background-color: green;
+}
+
+.block.product-cart.text-center {
+  text-align: center;
+}
