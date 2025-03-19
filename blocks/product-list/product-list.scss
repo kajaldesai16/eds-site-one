@@ -1,0 +1,6 @@
+.block.product-list{
+    background-color: red;
+    &.background-blue{
+        background-color: blue;
+    }
+}
