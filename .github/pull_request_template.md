@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--eds-site-one--kajaldesai16.hlx.live/
-- After: https://{branch}--eds-site-one--kajaldesai16.hlx.live/
+- Before: https://main--eds-site-one--kajaldesai16.aem.live/
+- After: https://dev--eds-site-one--kajaldesai16.aem.live/
